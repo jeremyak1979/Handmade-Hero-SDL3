@@ -8,7 +8,7 @@ Coding in C as pure as the driven snow.
 
 <https://github.com/libsdl-org/SDL> 
 
--- Progress so far --
+------- Progress so far --------
 
 Day 1: Setting up the build.
 
@@ -20,10 +20,15 @@ Day 4: Animating the backbuffer.
 
 Day 5: Refactoring & Review.
 
--- To run code --
+--------------------------------
+
+
+--------- To run code ----------
 
 chmod +x build.sh
 
 ./build.sh
 
 ../build/./handher
+
+--------------------------------
