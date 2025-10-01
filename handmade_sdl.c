@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 #include <sys/mman.h>
 #include <SDL3/SDL.h>
 #include <stdbool.h>
