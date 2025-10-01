@@ -1,6 +1,12 @@
 Following Handmade Hero by Casey Muratori <https://www.youtube.com/@MollyRocket> 
 
-Coding in C as pure as the driven snow, using the SDL3 library <https://wiki.libsdl.org/SDL3/> github <https://github.com/libsdl-org/SDL> 
+Coding in C as pure as the driven snow. 
+
+-- SDL3 library --
+
+<https://wiki.libsdl.org/SDL3/> 
+
+<https://github.com/libsdl-org/SDL> 
 
 -- Progress so far --
 
