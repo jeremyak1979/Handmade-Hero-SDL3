@@ -1,14 +1,20 @@
-Following Handmade Hero by Casey Muratori <https://www.youtube.com/@MollyRocket> 
+Following Handmade Hero by Casey Muratori. 
 
-Coding in C as pure as the driven snow. 
+<https://www.youtube.com/@MollyRocket> 
 
--- SDL3 library --
+And Handmade Penguins by David Gow.
+
+https://davidgow.net/handmadepenguin/
+
+-------------- SDL3 library ---------------
+
+Using C and Simple DirectMedia Layer 3.0
 
 <https://wiki.libsdl.org/SDL3/> 
 
 <https://github.com/libsdl-org/SDL> 
 
-------- Progress so far --------
+------------- Progress so far -------------
 
 Day 1: Setting up the build.
 
@@ -23,7 +29,7 @@ Day 5: Refactoring & Review.
 --------------------------------
 
 
---------- To run code ----------
+-------------- To run code ----------------
 
 chmod +x build.sh
 
@@ -32,3 +38,4 @@ chmod +x build.sh
 ../build/./handher
 
 --------------------------------
+    
